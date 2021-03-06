@@ -14,7 +14,6 @@ const reviewRouter = require('./routes/reviewRoutes')
 const viewRouter = require('./routes/viewRoutes')
 const bookingRouter = require('./routes/bookingRoutes')
 
-
 const AppError = require('./utils/appError')
 const globalErrorHandler = require('./controllers/errorController')
 
